@@ -1,0 +1,11 @@
+{
+  "name": "cnpj",
+  "label": "CNPJ",
+  "type": "string",
+  "fieldType": "text",
+  "groupName": "companyinformation",
+  "hidden": false,
+  "displayOrder": 2,
+  "hasUniqueValue": true,
+  "formField": true
+}
